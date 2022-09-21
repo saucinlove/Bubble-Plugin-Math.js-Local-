@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "visual elements",
+        "1": "input forms",
+        "2": "data (things)"
+    },
+    "description": "",
+    "image": "//s3.amazonaws.com/appforest_uf/f1517338184827x213982171611860380/mathjslocal.png",
+    "instructions": "Add the element to your page. Set the expression in the element properties and you can then access the result from the element as either a Text or a Number.",
+    "license": "open_source",
+    "link": "",
+    "name": "Math.js",
+    "plugin_instructions": ""
+}

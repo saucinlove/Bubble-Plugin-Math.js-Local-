@@ -1,5 +1,5 @@
 {
-    "add_is_visible": true,
+    "add_is_visible": false,
     "category": "visual elements",
     "default_dim": {
         "height": 60,
@@ -20,8 +20,14 @@
             "doc": "Expression to evaluate. See http://mathjs.org/docs/expressions/index.html",
             "editor": "DynamicValue",
             "name": "expression",
-            "rank": 0,
+            "rank": 1,
             "value": "text"
+        },
+        "AAP": {
+            "caption": "Note: This plugin is deprecated. It is unmaintained and may have significant bugs. It is offered for use at your own risk, and no support is available. The plugin is open source and you are welcome to maintain your own fork.",
+            "editor": "Label",
+            "name": "notice",
+            "rank": 0
         }
     },
     "icon": "ion-ios-calculator",
